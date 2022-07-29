@@ -1,1 +1,2 @@
 third.txt file added in smart git
+through remote changes in third.txt
